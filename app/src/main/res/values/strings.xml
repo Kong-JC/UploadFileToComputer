@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UploadFileToComputer</string>
+    <string name="rationale_photo_picker">我们需要这个许可才能从画廊和相机中选择照片</string>
+</resources>
